@@ -26,16 +26,6 @@
  
 </div>
  
----
- 
-## 📊 Estatísticas
- 
-<div align="center">
- 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=merko&hide_border=true"/>
- 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=merko&hide_border=true"/>
- 
 </div>
  
 ---
