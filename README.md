@@ -1,48 +1,67 @@
 <div>
  
-# 🌿 Olá, eu sou a Luiza! 👋
+# ✿ Olá, eu sou a Luiza!
  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4CAF50¢er=true&vCenter=true&width=500&lines=Técnica+em+Informática;Banco+de+Dados+%F0%9F%97%84%EF%B8%8F;Infraestrutura+%F0%9F%92%BB;Sempre+aprendendo+algo+novo+%F0%9F%8C%B1" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=28&pause=1500&color=2E8B57¢er=true&vCenter=true&width=700&lines=Técnica+em+Informática;Banco+de+Dados+%7C+Infraestrutura;A+tecnologia+muda+todos+os+dias.+Eu+gosto+de+acompanar+essa+evolução.+%F0%9F%8C%BF" />
  
 </div>
  
 ---
  
-## 🌱 Sobre mim
+## 🌿 Sobre mim
+ 
 💻 Técnica em Informática
-🗄️ Interesse em **Banco de Dados, Infraestrutura e Back-end**
-📚 Sempre estudando e desenvolvendo novos projetos.
+ 
+🗄️ Interesse em Banco de Dados, Infraestrutura e Desenvolvimento Back-end
+ 
+📚 Gosto de transformar teoria em projetos e aprender um pouco mais a cada dia.
  
 ---
  
-## 🛠️ Tecnologias
+## 🛠 Tecnologias
  
-<p align="center">
+<div align="center">
  
-<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,js,html,css,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,js,html,css,git&theme=light"/>
  
-</p>
- 
----
- 
-
+</div>
  
 ---
  
-## 🎯 Atualmente
+## 📊 Estatísticas
  
-- 🌿 C# e .NET
-- 🗄️ SQL Server & MySQL
-- ⚡ JavaScript
-- 🎨 HTML & CSS
-- 📚 Aprendendo mais sobre infraestrutura e banco de dados
+<div align="center">
+ 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=merko&hide_border=true"/>
+ 
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=merko&hide_border=true"/>
+ 
+</div>
+ 
+---
+ 
+## 🌱 Atualmente
+ 
+• C# e .NET
+ 
+• SQL Server e MySQL
+ 
+• JavaScript
+ 
+• HTML & CSS
+ 
+• Construindo projetos para evoluir na área de dados e infraestrutura
  
 ---
  
 <div align="center">
  
-### 💚 "Learning one commit at a time."
+### 💚
  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2e8b57,100:7CFC00&height=120§ion=footer"/>
+*"Grandes resultados são construídos com constância."*
+ 
+🌿
  
 </div>
+ 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F5132,50:2E8B57,100:A3D9A5§ion=footer"/>
