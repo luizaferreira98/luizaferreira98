@@ -1,57 +1,74 @@
 <div>
  
-# ✿ Olá, eu sou a Luiza!
+# 🌿 Luiza Ferreira
  
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=28&pause=1500&color=2E8B57¢er=true&vCenter=true&width=700&lines=Técnica+em+Informática;Banco+de+Dados+%7C+Infraestrutura;A+tecnologia+muda+todos+os+dias.+Eu+gosto+de+acompanar+essa+evolução.+%F0%9F%8C%BF" />
+### Tecnologia • Banco de Dados • Infraestrutura
  
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=26&pause=2500&color=1B5E20¢er=true&vCenter=true&width=700&lines=Transformando+conhecimento+em+projetos.;Sempre+há+algo+novo+para+aprender." />
  
----
- 
-## 🌿 Sobre mim
- 
-💻 Técnica em Informática
- 
-🗄️ Interesse em Banco de Dados, Infraestrutura e Desenvolvimento Back-end
- 
-📚 Gosto de transformar teoria em projetos e aprender um pouco mais a cada dia.
- 
----
- 
-## 🛠 Tecnologias
- 
-<div align="center">
+<br>
  
 <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,js,html,css,git&theme=light"/>
  
 </div>
  
-</div>
+---
+ 
+## 🍃 Sobre mim
+ 
+```csharp
+public class Luiza
+{
+    public string Formação => "Técnica em Informática";
+ 
+    public string[] Interesses =>
+    {
+        "Banco de Dados",
+        "Infraestrutura",
+        "Back-end"
+    };
+ 
+    public string Filosofia =>
+        "Tecnologia, organização e constância.";
+}
+```
  
 ---
  
 ## 🌱 Atualmente
  
-• C# e .NET
+- 🗄️ SQL Server & MySQL
+- 💚 C# / .NET
+- 🌐 JavaScript
+- 🎨 HTML & CSS
+- 📚 Aprimorando conhecimentos em infraestrutura
  
-• SQL Server e MySQL
+---
  
-• JavaScript
+## 🌿 Um pouco da minha personalidade
  
-• HTML & CSS
+> **"Grandes resultados são construídos todos os dias."**
  
-• Construindo projetos para evoluir na área de dados e infraestrutura
+<div align="center">
+ 
+🟢 ⚪  1914 ⚪ 🟢
+ 
+</div>
  
 ---
  
 <div align="center">
  
-### 💚
+<img src="https://github-readme-stats.vercel.app/api?username=luizaferreira98&show_icons=true&theme=merko&hide_border=true&bg_color=00000000"/>
  
-*"Grandes resultados são construídos com constância."*
- 
-🌿
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaferreira98&layout=compact&theme=merko&hide_border=true&bg_color=00000000"/>
  
 </div>
  
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F5132,50:2E8B57,100:A3D9A5§ion=footer"/>
+---
+ 
+<div align="center">
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0B3D0B,50:1B5E20,100:4CAF50§ion=footer"/>
+ 
+</div>
