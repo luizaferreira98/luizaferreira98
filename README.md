@@ -5,8 +5,9 @@
 ### Tecnologia • Banco de Dados • Infraestrutura
  
  
-<img src="https://readmetypingsvg.demolab.comfont=Cormorant+Garamond&weight=600&size=26&pause=2500&color=1B5E20¢er=true&vCenter=true&width=700
-lines=Tecnologia+%E2%80%A2+Banco+de+Dados+%E2%80%A2+Infraestrutura;Sempre+h%C3%A1+algo+novo+para+aprender." />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=1B5E20¢er=true&vCenter=true&width=700&lines=Tecnologia+%E2%80%A2+Banco+de+Dados+%E2%80%A2+Infraestrutura;Transformando+conhecimento+em+projetos." />
+</p>
  
  
 <br>
