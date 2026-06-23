@@ -1,11 +1,11 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B6623,50:14532D,100:22C55E&text=Luiza%20Ferreira&font=Comfortaa&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-  <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=22C55E&width=750&lines=Transformando+conhecimento+em+projetos.;Desenvolvedora+em+Progresso.;Back-end+e+Infraestrutura.;Aprendendo+um+commit+de+cada+vez." />
+  <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=22C55E&width=750&lines=Turning+knowledge+into+projects.;Back-end+Developer+in+Progress.;Back-end+and+Infrastructure.;Learning+one+commit+at+a+time." />
 </div>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&width=350&lines=%F0%9F%9A%80+Tecnologias" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&width=350&lines=%F0%9F%9A%80+Technologies" />
 
 <br>
 
@@ -15,32 +15,32 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&width=350&lines=%F0%9F%91%A4+Sobre+Mim" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&width=350&lines=%F0%9F%91%A4+About+Me" />
 
 ```csharp
 public class Luiza
 {
-    public string Nome           => "Luiza Ferreira";
-    public string Formacao       => "Técnica em Informática";
-    public string Especializacao => ".NET | Banco de Dados | Infraestrutura";
-    public string Filosofia      => "Tecnologia, organização e constância.";
-    public string Status         => "Aprendendo um commit de cada vez.";
+    public string Name           => "Luiza Ferreira";
+    public string Education      => "IT Technician";
+    public string Specialization => ".NET | Databases | Infrastructure";
+    public string Philosophy     => "Technology, organization and consistency.";
+    public string Status         => "Learning one commit at a time.";
 }
 ```
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&width=350&lines=%F0%9F%93%9A+Atualmente" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=1&pause=999999&color=FFFFFF&width=350&lines=%F0%9F%93%9A+Currently" />
 
 ```csharp
-public string[] Estudando => new[]
+public string[] Learning => new[]
 {
     "SQL Server & MySQL",
     "C# / .NET",
     "JavaScript",
     "HTML & CSS",
-    "Infraestrutura",
-    "Desenvolvendo novos projetos"
+    "Infrastructure",
+    "Building new projects"
 };
 ```
 
@@ -68,7 +68,7 @@ public string[] Estudando => new[]
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Poppins&weight=500&size=18&duration=4000&pause=1200&color=22C55E&width=700&lines=Tecnologia%2C+organizacao+e+constancia.;Construindo+projetos+todos+os+dias.;Sempre+evoluindo.;Learning+one+commit+at+a+time." />
+  <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Poppins&weight=500&size=18&duration=4000&pause=1200&color=22C55E&width=700&lines=Technology%2C+organization+and+consistency.;Building+projects+every+day.;Always+evolving.;Learning+one+commit+at+a+time." />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0B6623,50:14532D,100:22C55E"/>
