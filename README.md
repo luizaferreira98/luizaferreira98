@@ -1,4 +1,4 @@
-<div align="center">
+<div>
  
 # 🌿 Olá, eu sou a Luiza! 👋
  
@@ -25,25 +25,7 @@
  
 ---
  
-## 📊 Estatísticas
- 
-<div align="center">
- 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=luizaferreira98&show_icons=true&theme=merko&hide_border=true&count_private=true"/>
- 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaferreira98&layout=compact&theme=merko&hide_border=true"/>
- 
-</div>
- 
----
- 
-## 🔥 Streak
- 
-<div align="center">
- 
-<img src="https://streak-stats.demolab.com?user=luizaferreira98&theme=merko&hide_border=true"/>
- 
-</div>
+
  
 ---
  
